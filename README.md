@@ -25,6 +25,7 @@ It is designed around a simple workflow:
 
 ## Target Languages
 
+- Turkish
 - French
 - German
 - Spanish
