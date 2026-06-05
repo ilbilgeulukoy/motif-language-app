@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/motif-hero.png" alt="Motif app preview" width="100%" />
+  <img src="./screenshots/motif-hero.png" alt="Motif app preview" width="100%">
 </p>
 
 # Motif
