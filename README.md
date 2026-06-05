@@ -1,21 +1,27 @@
+<p align="center">
+  <img src="screenshots/motif-hero.png" alt="Motif app preview" width="100%" />
+</p>
+
 # Motif
 
-Motif is a mobile language-learning notebook app prototype built with Expo and React Native.
+Motif is a mobile language-learning app prototype built with Expo and React Native.
 
-The app is designed around a simple workflow:
+It is designed around a simple workflow:
 
 1. Search a word
-2. Add useful translations to a personal notebook
-3. Practice saved words with study modes
+2. Save useful vocabulary
+3. Practice with study modes
+4. Explore idioms, daily words, and useful sentences
 
 ## Current Features
 
 - Multi-language theme system
-- Turkish-to-target-language vocabulary workflow
-- Wordbook screen
-- Study screen prototype
-- Bottom navigation
-- React Context for theme and wordbook state
+- Vocabulary search flow
+- Personal wordbook
+- Study mode
+- Explore section
+- React Context state management
+- iOS-inspired mobile UI
 
 ## Target Languages
 
@@ -47,6 +53,7 @@ motif-expo/
       DefterScreen.js
       CalisScreen.js
   screenshots/
+    motif-hero.png
 
 ## Run Locally
 
@@ -58,22 +65,17 @@ Start the Expo development server:
 
 npx expo start --lan --clear
 
-## Screenshots
+## Status
 
-Add app screenshots in the screenshots/ folder.
+This project is currently an early mobile app prototype.
 
-Recommended files:
-
-screenshots/search-screen.png
-screenshots/notebook-screen.png
-screenshots/study-screen.png
-screenshots/prototype-preview.png
+The goal is to turn the original UI concept into a polished iOS and Android application.
 
 ## Roadmap
 
-- Add quiz modes
+- Improve glassmorphism UI
+- Add real search input
+- Add local storage
+- Add spaced repetition logic
+- Expand study modes
 - Prepare iOS and Android builds
-
-## Status
-
-This project is currently an early mobile app prototype. The main goal is to transform the visual language prototype into a working Expo application for iOS and Android.
