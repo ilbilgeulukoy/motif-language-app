@@ -71,10 +71,6 @@ screenshots/prototype-preview.png
 
 ## Roadmap
 
-- Improve glassmorphism UI
-- Add real search input
-- Add local storage with AsyncStorage
-- Add spaced repetition logic
 - Add quiz modes
 - Prepare iOS and Android builds
 
