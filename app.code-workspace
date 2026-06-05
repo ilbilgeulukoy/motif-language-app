@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "app",
+			"path": "../../Desktop/app"
+		},
+		{
+			"name": "motif-expo",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
