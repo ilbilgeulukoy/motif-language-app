@@ -73,9 +73,5 @@ The goal is to turn the original UI concept into a polished iOS and Android appl
 
 ## Roadmap
 
-- Improve glassmorphism UI
-- Add real search input
-- Add local storage
-- Add spaced repetition logic
 - Expand study modes
 - Prepare iOS and Android builds
