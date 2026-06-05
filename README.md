@@ -4,7 +4,7 @@
 
 # Motif
 
-Motif is a mobile language-learning app prototype built with Expo and React Native.
+Motif is a mobile language-learning app prototype, mainly for Turkish-speaking people, built with Expo and React Native.
 
 It is designed around a simple workflow:
 
